@@ -53,27 +53,27 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/MaxwellAM',
-		},
-		{
-			id: '2',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://mail.protonmail.com/',
 		},
 		{
+			id: '2',
+			name: 'Proton Drive',
+			icon: 'cloud',
+			link: 'https://proton.me/drive/',
+		},
+		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://proton.me/calendar/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://proton.me/calendar',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/MaxwellAM/',
 		},
 		{
 			id: '5',
